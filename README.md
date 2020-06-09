@@ -45,7 +45,8 @@ Este projeto tem como finalidade achar pontos de descarte consciente de resíduo
 Layout da aplicação web e mobile disponível no: <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">Figma</a>
 
 <h2>ℹ️ Como usar o server?</h2>
-<p>O projeto do server está disponível clicando aqui: </p><a href="https://github.com/miguelrisquelme/Ecoleta_BackEnd">Link</a>
+O projeto do server está disponível clicando aqui: <a href="https://github.com/miguelrisquelme/Ecoleta_BackEnd">Link</a>
+
 <p>Após baixado basta apenas seguir esses passos:</p>
 
 1. Entre na pasta /server
