@@ -12,12 +12,6 @@ Este projeto tem como finalidade achar pontos de descarte consciente de resíduo
   <img src="ttps://img.shields.io/github/license/miguelrisquelme/Ecoleta"/>
 </p>
 
-<p align="center">
-  <p>Projeto</p>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <p>Tecnologias</p>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <p>Layout</p>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <p>Como usar</p>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 
 <h2>ℹ️ O que há na Next Level Week?</h2>
 <p>O NLW é uma semana prática com muito código, desafios, redes e um único objetivo: levá-lo ao próximo nível. Através do nosso método, você aprenderá novas ferramentas, aprenderá sobre novas tecnologias e descobrirá hacks que irão impulsionar sua carreira. Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na sua evolução como desenvolvedor.</p>
