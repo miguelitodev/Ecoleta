@@ -42,7 +42,7 @@ Este projeto tem como finalidade achar pontos de descarte consciente de resíduo
 </ul>
 
 <h2>🔖 Layout</h2>
-Layout da aplicação web e mobile disponível no: <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">Figma</a>
+Layout da aplicação web e mobile disponível no: <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=0%3A1">Figma</a>
 
 <h2>ℹ️ Como usar o server?</h2>
 O projeto do server está disponível clicando aqui: <a href="https://github.com/miguelrisquelme/Ecoleta_BackEnd">Link</a>
@@ -60,6 +60,10 @@ Feito isso vai estar rodando no **localhost:3333**
 
 <h2>ℹ️ Como usar a aplicação web?</h2>
 
+<p align="center">
+    <img alt="Web Ecoleta" title="Web Ecoleta" src=".github/web.png" width="500px" />
+</p>
+
 **É IMPORTANTE QUE O SERVER ESTEJA RODANDO**
 
 1. Baixa o repositório por este link: <a href="https://github.com/miguelrisquelme/Ecoleta_FrontEnd">Link</a>
@@ -69,6 +73,10 @@ Feito isso vai estar rodando no **localhost:3333**
 5. Espere que irá abrir a aba no seu navegador padrão!
 
 <h2>ℹ️ Como usar o app??</h2>
+
+<p align="center">
+    <img alt="Mobile Ecoleta" title="Mobile Ecoleta" src=".github/mobile.png" width="500px" />
+</p>
 
 **É IMPORTANTE QUE O SERVER ESTEJA RODANDO E TENHA PONTOS CADASTRADOS JÁ**
 *Em breve eu gero a apk e deixo disponível no repositório*
